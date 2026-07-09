@@ -15,15 +15,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sagargherade55/SDESheetChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/sagargherade55/SDESheetChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/sagargherade55/SDESheetChallenge/tree/master/0300-longest-increasing-subsequence) |
+| [2965-find-missing-and-repeated-values](https://github.com/sagargherade55/SDESheetChallenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sagargherade55/SDESheetChallenge/tree/master/0073-set-matrix-zeroes) |
+| [2965-find-missing-and-repeated-values](https://github.com/sagargherade55/SDESheetChallenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sagargherade55/SDESheetChallenge/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/sagargherade55/SDESheetChallenge/tree/master/0073-set-matrix-zeroes) |
+| [2965-find-missing-and-repeated-values](https://github.com/sagargherade55/SDESheetChallenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sagargherade55/SDESheetChallenge/tree/master/0048-rotate-image) |
+| [2965-find-missing-and-repeated-values](https://github.com/sagargherade55/SDESheetChallenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
