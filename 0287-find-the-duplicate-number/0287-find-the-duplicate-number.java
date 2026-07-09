@@ -1,10 +1,11 @@
 class Solution {
     public int findDuplicate(int[] nums) {
-        Arrays.sort(nums);
-        for(int i=0; i<nums.length-1; i++){
-            if(nums[i]==nums[i+1])
-            return nums[i];
+        boolean []  visited= new boolean[nums.length+1];
+        
+        for(int num : nums){
+            if (visited[num]==true) return num;
+            else visited[num]=true;
         }
-        return -1;
+        return 0;
     }
 }
