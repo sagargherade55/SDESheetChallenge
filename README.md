@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sagargherade55/SDESheetChallenge/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/sagargherade55/SDESheetChallenge/tree/master/0050-powx-n) |
 | [2965-find-missing-and-repeated-values](https://github.com/sagargherade55/SDESheetChallenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/sagargherade55/SDESheetChallenge/tree/master/0707-design-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/sagargherade55/SDESheetChallenge/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
