@@ -1,34 +1,34 @@
 class Solution {
+
+    int cnt= 0;
     public int reversePairs(int[] nums) {
         int n=nums.length;
 
-        return mergeSort(nums, 0, n-1);
+        mergeSort(nums, 0, n-1);
+    return cnt;
     }
-    public int mergeSort(int [] nums, int low, int high){
-        int cnt=0;
-        if(low>=high) return cnt;
+    public void mergeSort(int [] nums, int low, int high){
 
-        int mid= (low+ high)/2;
+        if(low>=high) return;
 
-        cnt+= mergeSort(nums, low, mid);
-        cnt+= mergeSort(nums, mid+1, high);
-        cnt+= countPairs(nums, low, mid, high);
+        int mid= low + (high - low)/2;
+
+        mergeSort(nums, low, mid);
+        mergeSort(nums, mid+1, high);
+
+        countPairs(nums, low, mid, high);
         merge(nums, low, mid, high);
-
-        return cnt;
     }
-    public int countPairs(int [] nums, int low, int mid, int high){
-        int cnt=0;
+    public void countPairs(int [] nums, int low, int mid, int high){
 
-        int right=mid+1;
+        int right= mid + 1;
 
-        for(int i=low; i<=mid; i++){
-            while(right<= high && (long)nums[i]> 2L*nums[right]){
+        for(int i= low; i<= mid; i++){
+            while(right<= high && nums[i]> 2L*nums[right]){
                 right++;
             }
-            cnt+= (right-(mid+1));
+            cnt += right-(mid + 1);
         }
-        return cnt;
     }
     public void merge(int [] nums, int low, int mid, int high){
         ArrayList<Integer> list= new ArrayList<>();
