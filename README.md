@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sagargherade55/SDESheetChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/sagargherade55/SDESheetChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/sagargherade55/SDESheetChallenge/tree/master/0493-reverse-pairs) |
+| [1260-shift-2d-grid](https://github.com/sagargherade55/SDESheetChallenge/tree/master/1260-shift-2d-grid) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sagargherade55/SDESheetChallenge/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/sagargherade55/SDESheetChallenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sagargherade55/SDESheetChallenge/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/sagargherade55/SDESheetChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sagargherade55/SDESheetChallenge/tree/master/0074-search-a-2d-matrix) |
+| [1260-shift-2d-grid](https://github.com/sagargherade55/SDESheetChallenge/tree/master/1260-shift-2d-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/sagargherade55/SDESheetChallenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sagargherade55/SDESheetChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/sagargherade55/SDESheetChallenge/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
