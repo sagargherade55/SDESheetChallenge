@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sagargherade55/SDESheetChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/sagargherade55/SDESheetChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/sagargherade55/SDESheetChallenge/tree/master/0493-reverse-pairs) |
+| [0560-subarray-sum-equals-k](https://github.com/sagargherade55/SDESheetChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [1260-shift-2d-grid](https://github.com/sagargherade55/SDESheetChallenge/tree/master/1260-shift-2d-grid) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sagargherade55/SDESheetChallenge/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/sagargherade55/SDESheetChallenge/tree/master/2965-find-missing-and-repeated-values) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sagargherade55/SDESheetChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/sagargherade55/SDESheetChallenge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sagargherade55/SDESheetChallenge/tree/master/0229-majority-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/sagargherade55/SDESheetChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sagargherade55/SDESheetChallenge/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/sagargherade55/SDESheetChallenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sagargherade55/SDESheetChallenge/tree/master/3499-maximize-active-section-with-trade-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sagargherade55/SDESheetChallenge/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
